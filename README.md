@@ -3,7 +3,7 @@
 ![Snake animation](https://github.com/rominpoiseh/rominpoiseh/blob/output/github-contribution-grid-snake.svg)
 
 ## My name is Rômulo and my nickname is rominpoiseh!
-- 🌱 I’m currently learning Analysis and development of systemsClique para usar esta alternativa
+- 🌱 I’m currently learning Analysis and development of systems
 - 👯 I’m looking to collaborate on Technology companies for interns or juniors
 - 💬 About me: Graduating in systems analysis and development and a scholarship student in Alura's Oracle One program, I have a professional profile in the administrative 
      area, with experience of more than 10 years in the field, I am looking for new opportunities and to develop my skills in the area of technology. My native language is       Portuguese, but I can communicate in English
