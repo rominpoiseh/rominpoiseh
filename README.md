@@ -13,6 +13,9 @@
 - 📫 How to reach me: romulob.alves@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love hero and sci-fi movies, I'm a fan of the writer Jules Verne and in my spare time I'm always running on the beach.
+
+          - achievements:
+  <img src="https://github.com/user-attachments/assets/2a0ba804-9aff-42d6-a3db-be6ada62ae61" alt="1 - insignia dev criptografe" width="60" height="60"> challenge decoder
 -     Tools & technologies:
 - I'm learning ↓
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" /> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> 
