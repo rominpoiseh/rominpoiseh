@@ -4,7 +4,7 @@
 
 ## My name is Rômulo and my nickname is rominpoiseh!
 - 🌱 I’m currently learning Analysis and development of systems
-- 👯 I’m looking to collaborate on Technology companies for interns or juniors
+- 👯 I’m looking for collaborate in Technology companies for interns or juniors
 - 💬 About me: Graduating in systems analysis and development and a scholarship student in Alura's Oracle One program, I have a professional profile in the administrative 
      area, with experience of more than 10 years in the field, I am looking for new opportunities and to develop my skills in the area of technology. My native language is       Portuguese, but I can communicate in English
 .
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: romulob.alves@hotmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hero and sci-fi movies, I'm a fan of the writer Jules Verne and in my spare time I'm always running on the beach.
+- ⚡ Fun fact: I love hero and sci-fi movies, I'm a fan of the writer Jules Verne and in my spare time I'm always run on the beach.
 
           - achievements:
   <img src="https://github.com/user-attachments/assets/2a0ba804-9aff-42d6-a3db-be6ada62ae61" alt="1 - insignia dev criptografe" width="60" height="60"> challenge decoder
