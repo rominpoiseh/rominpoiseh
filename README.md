@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-![Snake animation](https://raw.githubusercontent.com/rominpoiseh/rominpoiseh/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rominpoiseh/rominpoiseh/blob/output/github-contribution-grid-snake.svg)
 
 ## My name is Rômulo and my nickname is rominpoiseh!
 - 🌱 I’m currently learning Analysis and development of systems
