@@ -3,11 +3,6 @@
 
 ## My name is Rômulo and my nickname is rominpoiseh!
 - 🌱 I’m currently learning Analysis and development of systems
-- 👯 I’m looking for collaborate in Technology companies for interns or juniors
-- 💬 About me: Graduating in systems analysis and development and a scholarship student in Alura's Oracle One program, I have a professional profile in the administrative 
-     area, with experience of more than 10 years in the field, I am looking for new opportunities and to develop my skills in the area of technology. My native language is       Portuguese, but I can communicate in English
-.
-.
 
 - 📫 How to reach me: romulob.alves@hotmail.com
 - 😄 Pronouns: he/him
