@@ -16,7 +16,7 @@
 ### 📊 GitHub Stats
 <div align="left">
   <a href="https://github.com/rominpoiseh">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rominpoiseh&theme=dracula" width="600" alt="GitHub Summary Card para rominpoiseh">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rominpoiseh&theme=dracula" width="400" alt="Linguagens com mais commits">
   </a>
 </div>
 
