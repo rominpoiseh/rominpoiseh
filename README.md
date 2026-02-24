@@ -1,6 +1,6 @@
 # 👋 Hello! Welcome to my Github profile.
 
-<img src="Pixel_Art_Cyberpunk_Japão_Animada.gif" width="250" alt="Cyberpunk City and androids" />
+<img src="Pixel_Art_Cyberpunk_Japão_Animada.gif" width="1280" heigt="720" alt="Cyberpunk City and androids" />
 
 <br>
 
