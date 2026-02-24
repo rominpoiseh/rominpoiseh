@@ -1,5 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 
+<img src="Pixel_Art_Cyberpunk_Japão_Animada.gif" width="250" alt="Cyberpunk City and androids" />
+
+<br>
+
+⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ 
+
 ## My name is Rômulo
 
 ### 📊 GitHub Stats
